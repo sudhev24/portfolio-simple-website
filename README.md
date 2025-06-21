@@ -15,7 +15,7 @@ This is a simple and responsive personal portfolio website built using **HTML5**
 
 ## How to view
 
-You can access my portfolio website by visiting [] feel free to explore the cintent and get in touch!
+You can access my portfolio website by visiting https://github.com/sudhev24/portfolio-simple-website feel free to explore the cintent and get in touch!
 
 ## Contributing
 
